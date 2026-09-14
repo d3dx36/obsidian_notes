@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "d8f7cc93278ca68f",
+    "type": "split",
+    "children": [
+      {
+        "id": "074daaee229a99e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fad2b3dcccd6499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Варианты построения архитектуры/3. Retrofit/2. Использование.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Использование"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a55cade9153368d",
+    "type": "split",
+    "children": [
+      {
+        "id": "761c8ac51a61c489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "468a6b9cb45794cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d4a0558e5cbefbaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "49547ed65d5c4e40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "405f7d9e727092ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c2011937e3edab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96886acd65074254",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Основы Android UI/1.Android Layouts/4. LinearLayout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 4. LinearLayout"
+            }
+          },
+          {
+            "id": "d54b26159ff3d086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Язык Java/Траблы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Траблы"
+            }
+          },
+          {
+            "id": "66b2dca4c55f48ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b08f646b174bb68e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jetpack Compose/2.Контейнеры.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2.Контейнеры"
+            }
+          },
+          {
+            "id": "058965d5f1da27ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "519ec7886cd5a776",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5fad2b3dcccd6499",
+  "lastOpenFiles": [
+    "4. Варианты построения архитектуры/3. Retrofit/1.Подключение retrofit.md",
+    "4. Варианты построения архитектуры/3. Retrofit/2. Использование.md",
+    "4. Варианты построения архитектуры/2. Работа с сетью/2. Клиент-серверная архитектура. REST API.md",
+    "4. Варианты построения архитектуры/3. Retrofit",
+    "4. Варианты построения архитектуры/2. Работа с сетью/1. Сетевые протоколы.md",
+    "4. Варианты построения архитектуры/Untitled.md",
+    "4. Варианты построения архитектуры/2. Работа с сетью/3.md",
+    "4. Варианты построения архитектуры/3.md",
+    "Что не учить.md",
+    "Нужно запомнить.md",
+    "Без названия.md",
+    "Без названия.canvas",
+    "Вопросы для собеседования/Android UI.md",
+    "4. Варианты построения архитектуры/1. Архитектуры приложений/2. MVP.md",
+    "UI Automator.md",
+    "4. Варианты построения архитектуры/2. Работа с сетью",
+    "Jetpack Compose/Без названия.base",
+    "Jetpack Compose/2.Контейнеры.md",
+    "Jetpack Compose/Без названия.md",
+    "4. Варианты построения архитектуры/1. Архитектуры приложений/Что является устаревшим а что нет.md",
+    "4. Варианты построения архитектуры/1. Архитектуры приложений/Подключение ViewBinding.md",
+    "4. Варианты построения архитектуры/Вопросы.md",
+    "4. Варианты построения архитектуры/1. Архитектуры приложений/1. Архитектура приложений.md",
+    "4. Варианты построения архитектуры/1. Архитектуры приложений/3. MVVM.md",
+    "media/Pasted image 20260523090026.png",
+    "3. Основы Android UI/12. UI тестирование/1. Автоматизация UI тестирования.md",
+    "Jetpack Compose/Snackbar(Аналог Toast).md",
+    "media/Pasted image 20260609054122.png",
+    "media/Pasted image 20260703185907.png",
+    "media",
+    "media/Pasted image 20260613161121.png",
+    "Проекты/Android Player — Plan.md",
+    "media/Pasted image 20260704184750.png",
+    "Compose-Test-Framework.md",
+    "2026-06-11.md",
+    "4. Варианты построения архитектуры/1. Архитектуры приложений/6. Подходы к сохранению состояния.md",
+    "4. Варианты построения архитектуры/1. Архитектуры приложений",
+    "9. Мвьериалы курса",
+    "Библиотеки/ExoPlayer",
+    "Библиотеки",
+    "Проекты",
+    "Jetpack Compose",
+    "media/Pasted image 20260612052455.png",
+    "Язык Kotlin/NO_SORT!!!/Без названия.canvas"
+  ]
+}

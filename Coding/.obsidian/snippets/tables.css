@@ -1,0 +1,7 @@
+/* Растягиваем таблицы на всю ширину рабочей области в Obsidian */
+.markdown-source-view.mod-cm6 .cm-embed-block:has(.toggled-table),
+.markdown-rendered table {
+    width: 100% !important;
+    display: table;
+    table-layout: auto;
+}

@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Material Gruvbox",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tables"
+  ],
+  "accentColor": ""
+}
